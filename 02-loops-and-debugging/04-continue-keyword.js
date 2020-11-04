@@ -21,9 +21,10 @@
 // the continue keyword also works in while loops
 let count = 5;
 while (count >= 1) {
-  // console.log("help me im stuck", count)
+  
   // evenly divisible by two, must be even
   if (count % 2 === 0) {
+    console.log("help me im stuck", count)
     count--;
     continue;
   }

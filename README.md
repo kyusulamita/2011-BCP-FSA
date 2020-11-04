@@ -2,26 +2,12 @@
 
 Hello! This is where Sulamita will put all the material for BCP. If any of the links don't work don't hesitate to slack (@sulamita) and let me know.
 
-<!-- [![Run on Repl.it](https://repl.it/badge/github/kyusulamita/0820-BCPWK)](https://repl.it/github/kyusulamita/0820-BCPWK) -->
+
 
 ## Table of Contents
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
-<!--
-3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-4. [Scope](#04-scope)
-5. [Arrays I](#05-arrays-I)
-6. [Arrays II](#06-arrays-II)
-7. [Objects](#07-objects-i)
-8. [Object Methods](#08-objects-ii)
-9. [Pass By Value, Pass By Reference](#09-pass-by-value-pass-by-reference)
-10. [Higher Order Functions I](#10-higher-order-functions-i)
-11. [Higher Order Functions II](#10-higher-order-functions-ii)
-12. [Recursion I](#12-recursion-i)
-
-13. [Recursion II](#13-recursion-ii)
-    -->
 
 ## Additional Resources
 
@@ -72,13 +58,12 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
-<!-- [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf) -->
+[Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
 **[Live Lecture]()**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text) -->
 
 ### Notes
 

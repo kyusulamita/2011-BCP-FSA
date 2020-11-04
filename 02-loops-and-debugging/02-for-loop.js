@@ -24,6 +24,13 @@
 // }
 // console.log('byeee')
 
+// let i = 0;
+
+// for ( ;i<= 3; ){
+//   console.log("i is", i);
+//   i++;
+// }
+
 /* the initialization is run first, and only once. it's often used to define a counter variable */
 
 
@@ -46,23 +53,33 @@
 // for (let i = 100; i <= 300; i += 100) {
 //   console.log('i is:', i);
 // }
+// console.log('i is', i)
 
 // use for loops to iterate through a string
 let letters = 'abcdefg';
 console.log(letters.length);
-let newLetters = '';
-console.log(newLetters.length);
-//letters[0] // 'a' // 'A'
+// console.log(newLetters.length);
+console.log(letters[0]) // 'a' // 'A'
 //letters[1] // 'b' // 'B'
 //letters[2] // 'c'
-// let newStr = letters + "ef";
+// 0 -> 7
+console.log(letters[7])
+
+// for (let i = 0; i < letters.length; i++) {
+//   console.log(i);
+//   console.log(letters[i])
+// }
+
+
+letters[0] = 'A';
+console.log(letters);
+let newLetters = '';
 
 for (let i = 0; i < letters.length; i++) {
   // console.log(i);
   let currentLetter = letters[i];
   const capitalChar = currentLetter.toUpperCase();
   newLetters += capitalChar;// newLetters = newLetters + capitalChar
-  letters[i] = capitalChar;
   // console.log(capitalChar);
 }
 
