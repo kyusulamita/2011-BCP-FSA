@@ -40,7 +40,11 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 ## **01 Introduction and Tidy Code**
 
-**[Live Lecture]()**
+[Lecture Slides](00-slides/01-Intro.pdf)
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7da7b332a660004a45a83/text)**
+
+**[Live Lecture](https://youtu.be/smpmof_NW3Y)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
@@ -56,14 +60,16 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 ## **02 Loops And Debugging**
 
+[Lecture Slides](00-slides/02-Loops.pdf)
+
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
-[Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
-
-**[Live Lecture]()**
+**[Live Lecture](https://youtu.be/rJ3xVZpnoUg)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
+**[Review](https://youtu.be/Gb2xAWcoLvc)**
 
 ### Notes
 
