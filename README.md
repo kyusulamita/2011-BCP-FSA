@@ -80,3 +80,23 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 3. [Which is Better](02-loops-and-debugging/03-which-is-better.js)
 4. [Continue Keyword](02-loops-and-debugging/04-continue-keyword.js)
 5. [Break Keyword](02-loops-and-debugging/04-break-keyword.js)
+
+
+## **03 Coercion and Truthiness**
+[Lecture Slides](00-slides/03-Coercion.pdf)
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ec/text)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
+
+
+### Notes 
+[Full Notes](03-coercion-and-truthiness)
+
+1. [Explicit Coercion](03-coercion-and-truthiness/01-explicit-coercion.js)
+2. [Implicit Coercion](03-coercion-and-truthiness/02-implicit-coercion.js)
+3. [Implicit Coercion II](03-coercion-and-truthiness/03-implicit-coercion-II.js)
+4. [Conditionals](03-coercion-and-truthiness/04-conditionals.js)
+5. [Not Operator](03-coercion-and-truthiness/05-not-operator.js)
+6. [And](03-coercion-and-truthiness/06-and.js)
+7. [Or](03-coercion-and-truthiness/07-or.js)
