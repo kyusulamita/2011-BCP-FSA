@@ -14,6 +14,7 @@ console.log(typeof notStrNum);
 
 // // coerce into number
 let notNum = Number(notStrNum);
-console.log(notNum);
-console.log(typeof notNum);
+console.log(notNum); // NaN <- Not a number
+console.log(typeof notNum); // number
+
 

@@ -16,7 +16,9 @@
 // console.log(!NaN);
 
 // console.log('===========BANG BANG !!=======(Boolean)')
-// console.log(!!true); // true
+console.log(Boolean('abc')) //true
+console.log(!!'abc'); // true
+
 // console.log(!!'abc'); // true
 // console.log(!!100); // true
 // console.log(!!['an', 'array']); // true

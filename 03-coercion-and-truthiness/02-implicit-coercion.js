@@ -20,7 +20,7 @@
 // "102030" + "40" + 50
 // "10203040" + 50
 // "10203040" + "50"
-// "10203040"
+// "1020304050"
 // console.log(willBeAString);
 // console.log(typeof willBeAString);
 
@@ -51,14 +51,10 @@ console.log(typeof willBeAString);
 
 
 
-const a = 12345;
-// "12345"
-const stra = String(a);
-const str = "" + a;
-
-
-// const sum = Number(str[3]) + Number(str[4]);
-const sum = +str[3] + +str[4];
-
-console.log(sum);
+// const a = 12345;
+// // "12345"
+// // a into string
+// const stra = String(a);
+// // a into string
+// const str = "" + a;
 
