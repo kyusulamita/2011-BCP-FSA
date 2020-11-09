@@ -89,6 +89,7 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
 ### Notes 
 [Full Notes](03-coercion-and-truthiness)
@@ -100,3 +101,36 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 5. [Not Operator](03-coercion-and-truthiness/05-not-operator.js)
 6. [And](03-coercion-and-truthiness/06-and.js)
 7. [Or](03-coercion-and-truthiness/07-or.js)
+
+## **04 Reacto**
+[Lecture Slides](00-slides/04-Reacto.pdf)
+
+**[Prerecorded Lecture](https://www.youtube.com/watch?v=SNuD3NwpMHE&feature=youtu.be&rel=0)**
+
+[Workshop]()
+### Notes 
+[Full Notes](04-Reacto)
+
+1. [Global Scope](04-Reacto/01-vowel-count.js)
+
+## **05 Scope**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb8/text)**
+
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
+
+
+### Notes 
+[Full Notes](05-scope)
+
+1. [Global Scope](05-scope/01-global-scope.js)
+2. [Global Scope II](05-scope/02-global-scope-II.js)
+3. [Functional Scope](05-scope/03-functional-scope.js)
+4. [Functional Scope II](05-scope/04-functional-scope-II.js)
+5. [Functions and Parameters](05-scope/05-functions-and-parameters.js)
+6. [Nested Functions](05-scope/06-nested-functions.js)
+7. [Nested Functions II](05-scope/07-nested-functions-II.js)
+8. [Block Scope](05-scope/08-block-scope.js)
+9. [Scope Best Practices](05-scope/09-scope-best-practices.js)
+
