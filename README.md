@@ -141,12 +141,12 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
 ### Notes 
-[Full Notes](05-arrays-i)
+[Full Notes](06-arrays-i)
 
-1. [What is an Array](05-array-i/01-what-is-an-array.js)
-2. [Array Access + Assignment](05-array-i/02-array-accessing.js)
-3. [Push + Pop](05-array-i/03-push-pop.js)
-4. [Shift + Unshift](05-array-i/04-shift-unshift.js)
-5. [More methods](05-array-i/05-more-methods.js)
-6. [Slice + Reverse](05-array-i/06-slice.js)
-7. [Splice Sneak Peak](/05-arrays-i/07-splice-sneak-peak.js)
+1. [What is an Array](06-arrays-i/01-what-is-an-array.js)
+2. [Array Access + Assignment](06-arrays-i/02-array-accessing.js)
+3. [Push + Pop](06-arrays-i/03-push-pop.js)
+4. [Shift + Unshift](06-arrays-i/04-shift-unshift.js)
+5. [More methods](06-arrays-i/05-more-methods.js)
+6. [Slice + Reverse](06-arrays-i/06-slice.js)
+7. [Splice Sneak Peak](/06-arrays-i/07-splice-sneak-peak.js)
