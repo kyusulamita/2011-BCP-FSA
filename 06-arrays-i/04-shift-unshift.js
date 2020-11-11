@@ -17,6 +17,7 @@
 
 // names.unshift("Theodore");
 // console.log(names);
+// console.log(names.length);
 
 
 /* 
@@ -24,8 +25,25 @@
   it returns the removed element 
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 */
-// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
-// let mrBear = names.shift();
-// console.log(names);
-// console.log(mrBear);
+let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+
+// remove first element and store it in the 
+// variable mrBear
+let mrBear = names.shift();
+console.log(names);
+console.log(mrBear);
+
+
+// remove first element
+names.shift();
+console.log(names);
+
+// methods => function tied to something
+// names.shift()
+// this is a function meant to deal with the names variable
+
+// properties => information
+// names.length 
+// some information we're grabbing
+
 

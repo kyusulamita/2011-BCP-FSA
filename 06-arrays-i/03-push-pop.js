@@ -6,6 +6,7 @@
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
 */
 // let names = ['Mr Bear', 'Pusheen', 'Planty'];
+// console.log(names.length);
 // let newLength = names.push('Mr Sheep', 'Thomas');
 // names.push('Theodore');
 // console.log(names);
@@ -21,7 +22,7 @@
 */
 // const names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 // let mrSheep = names.pop();
-// names.pop();
+// // names.pop();
 // console.log(names);
 // console.log(mrSheep);
 
@@ -33,15 +34,18 @@
   mutating an array vs reassigning
 */
 
-// const names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+const names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 
 // names = [];
 
 // names.pop();
 // console.log(names);
 
-// while (names.length > 0) {
+// while my list still has elements
+// while (names.length > 2) {
+//   // take off the last one
 //   const goodbyePet = names.pop();
+//   // console.log it
 //   console.log("goodbye", goodbyePet);
 // }
 

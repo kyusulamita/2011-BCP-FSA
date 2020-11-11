@@ -4,29 +4,40 @@
   .indexOf is also an array method, 
   and works the same way as the string method of the same name 
   @param elemToLookFor
-  @param strIdx
+  @param strIdx[optional] - where we should start looking
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
 
 */
 
 // let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
-// console.log(names.indexOf("Planty"));
-// console.log(names.indexOf("Pusheen"));
+// console.log(names.indexOf("Planty")); // 2
+// console.log(names.indexOf("Pusheen")); // 1
 
-// console.log(names.indexOf("Mr"));
+// we want to start looking for pusheen starting at index 3
+// here we didn't find it so we return -1
+// console.log(names.indexOf("Pusheen", 3)); // -1
+
+// start looking for pusheen 3 from the end
+// console.log(names.indexOf("Pusheen", -3)); // -1
+// console.log(names.indexOf("Pusheen", names.length - 3)); // -1
+
+// console.log(names.indexOf("Mr")); // -1
 
 
 /* 
   .includes takes a value, 
   and returns true if the value is an element in the array
-  learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
+  learn more: 
+  @param elemToLookFor
+  @param strIdx[optional] - where we should start looking
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
 */
 
-let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
-console.log(names.includes("Planty"));
-console.log(names.includes("Pusheen"));
-console.log(names.includes("Pusheen", -3)); // names.length - 3
-console.log(names.includes("Mr"));
+// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+// console.log(names.includes("Planty")); // true
+// console.log(names.includes("Pusheen")); // true
+// console.log(names.includes("Pusheen", 3)); // false
+// console.log(names.includes("Mr"));
 
 
 // if (!names.includes("Pusheen")){
@@ -34,3 +45,18 @@ console.log(names.includes("Mr"));
 // } else {
 //   console.log('pusheen is in there')
 // }
+
+
+// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep", "Pusheen"];
+
+
+// const indexFirstPusheen = names.indexOf("Pusheen");
+// console.log(indexFirstPusheen); // 1
+
+// // look for pusheen starting at index 2
+// const indexSecondPusheen = names.indexOf("Pusheen", indexFirstPusheen + 1);
+// console.log(indexSecondPusheen);
+
+// // look for pusheen starting at index 5
+// const indexThirdPusheen = names.indexOf("Pusheen", indexSecondPusheen + 1);
+// console.log(indexThirdPusheen);
