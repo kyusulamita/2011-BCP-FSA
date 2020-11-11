@@ -87,6 +87,9 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ec/text)**
 
+**[Live Lecture](https://youtu.be/FDUDs6PnlGE)**
+**[Review](https://youtu.be/Kzt9DEuxoog)**
+
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
@@ -107,7 +110,10 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 **[Prerecorded Lecture](https://www.youtube.com/watch?v=SNuD3NwpMHE&feature=youtu.be&rel=0)**
 
-[Workshop]()
+**[Live Lecture](https://youtu.be/18LpkDqHqYk)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 ### Notes 
 [Full Notes](04-Reacto)
 
@@ -117,9 +123,11 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb8/text)**
 
+**[Live Lecture](https://youtu.be/CWdKM_NUtp4)**
+**[Review](https://youtu.be/pOSYkfFi4bw)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
-
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
 ### Notes 
 [Full Notes](05-scope)
