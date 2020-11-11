@@ -8,6 +8,10 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
+3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+4. [Reacto](#04-reacto)
+5. [Scope](#05-scope)
+6. [Arrays I](#06-arrays-I)
 
 ## Additional Resources
 
@@ -142,9 +146,9 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 8. [Block Scope](05-scope/08-block-scope.js)
 9. [Scope Best Practices](05-scope/09-scope-best-practices.js)
 
-## **05 Arrays I**
+## **06 Arrays I**
 
-<!-- **[Live Lecture]()** -->
+**[Live Lecture](https://youtu.be/2JrU7ENMR5w)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
