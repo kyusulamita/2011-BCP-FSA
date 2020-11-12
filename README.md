@@ -12,6 +12,7 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 4. [Reacto](#04-reacto)
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
+7. [Arrays II](#07-arrays-II)
 
 ## Additional Resources
 
@@ -162,3 +163,18 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 5. [More methods](06-arrays-i/05-more-methods.js)
 6. [Slice + Reverse](06-arrays-i/06-slice.js)
 7. [Splice Sneak Peak](/06-arrays-i/07-splice-sneak-peak.js)
+
+## **07 Arrays II**
+
+**[Live Lecture](https://youtu.be/U2wtDtazjv8)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
+
+### Notes 
+[Full Notes](07-arrays-ii)
+
+1. [Join](07-arrays-ii/01-join.js)
+2. [Concat](07-arrays-ii/02-concat.js)
+3. [Spread](07-arrays-ii/03-spread.js)
+4. [Splice](07-arrays-ii/04-splice.js)
+5. [Nested Arrays](07-arrays-ii/05-nested-arrays.js)
