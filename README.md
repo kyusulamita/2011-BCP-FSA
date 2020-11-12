@@ -170,6 +170,8 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
+[Fullstack Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
+
 ### Notes 
 [Full Notes](07-arrays-ii)
 
@@ -178,3 +180,8 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 3. [Spread](07-arrays-ii/03-spread.js)
 4. [Splice](07-arrays-ii/04-splice.js)
 5. [Nested Arrays](07-arrays-ii/05-nested-arrays.js)
+
+### Robin's Solutions
+
+1. [Flatten Array](07-arrays-ii/s-01-flatten-array.js)
+2. [Rotate Array](07-arrays-ii/s-02-rotate-array.js)
