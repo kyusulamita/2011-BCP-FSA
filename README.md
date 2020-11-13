@@ -189,7 +189,7 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 ## **08 Sudoku**
 
-**Live Lecture TBD**
+**[Live Lecture](https://youtu.be/_6tWBntBcoQ)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
 
