@@ -13,6 +13,7 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-II)
+8. [Sudoku](#08-sudoku)
 
 ## Additional Resources
 
@@ -185,3 +186,20 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 1. [Flatten Array](07-arrays-ii/s-01-flatten-array.js)
 2. [Rotate Array](07-arrays-ii/s-02-rotate-array.js)
+
+## **08 Sudoku**
+
+**Live Lecture TBD**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
+
+[Fullstack Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
+
+### Notes
+[Full Notes](08-Sudoku)
+
+1. [Row](08-Sudoku/01-row.js)
+2. [Column](08-Sudoku/02-column.js)
+3. [Section](08-Sudoku/03-section.js)
+4. [Includes 1 to 9](08-Sudoku/04-includes1to9.js)
+5. [Sudoku](08-Sudoku/05-sudoku.js)
