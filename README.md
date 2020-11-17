@@ -14,6 +14,7 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-II)
 8. [Sudoku](#08-sudoku)
+9. [Objects](#09-objects)
 
 ## Additional Resources
 
@@ -203,3 +204,26 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 3. [Section](08-Sudoku/03-section.js)
 4. [Includes 1 to 9](08-Sudoku/04-includes1to9.js)
 5. [Sudoku](08-Sudoku/05-sudoku.js)
+
+## **09 Objects**
+
+**[Live Lecture](https://youtu.be/WkukuuJV8wo)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
+
+[Fullstack Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
+
+### Notes 
+[Full Notes](09-objects)
+
+1. [Intro](09-objects/01-intro.js)
+2. [Access](09-objects/02-access.js)
+3. [Delete](09-objects/03-delete.js)
+4. [In Operator](09-objects/04-in.js)
+5. [Loops](09-objects/05-loops.js)
+6. [Object.keys()](09-objects/06-object-keys.js)
+7. [Nested Objects](09-objects/07-nested-objects.js)
+
+### Robin's Solutions
+
+1. [Compare Objects](09-objects/s-01-compare-objects.js)
