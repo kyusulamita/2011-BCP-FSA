@@ -229,7 +229,7 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 1. [Compare Objects](09-objects/s-01-compare-objects.js)
 
-## **10 Objects**
+## **10 Recursion I**
 
 **[Live Lecture](https://youtu.be/WGhVKbPU9P0)**
 
