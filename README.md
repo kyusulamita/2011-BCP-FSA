@@ -15,6 +15,7 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 7. [Arrays II](#07-arrays-II)
 8. [Sudoku](#08-sudoku)
 9. [Objects](#09-objects)
+10. [Recursion](#10-recursion-I)
 
 ## Additional Resources
 
@@ -227,3 +228,25 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 ### Robin's Solutions
 
 1. [Compare Objects](09-objects/s-01-compare-objects.js)
+
+## **10 Objects**
+
+**[Live Lecture](https://youtu.be/WGhVKbPU9P0)**
+
+[Robin's Live Solutions](https://youtu.be/eIzise3zGww)
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
+
+[Fullstack Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
+
+### Notes 
+[Full Notes](10-recursion-i)
+
+1. [Callstack](10-recursion-i/01-callstack.js)
+2. [Countdown](10-recursion-i/02-countdown.js)
+3. [Factorial](10-recursion-i/03-factorial.js)
+
+### Robin's Solutions
+
+1. [Sum Digits](10-recursion-i/04-sum-digits.js)
+2. [Reverse Array](10-recursion-i/05-reverse-array.js)
