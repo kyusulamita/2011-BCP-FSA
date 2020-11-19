@@ -257,6 +257,8 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 **[Live Lecture](https://youtu.be/UcLVFy7yM_s)**
 
+[Robin's Live Solution](https://youtu.be/a1uMKidNRhk)
+
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
 [Fullstack Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
@@ -269,3 +271,4 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 ### Robin's Solutions
 
+1. [All Systems Go](11-recursion-ii/s-01-all-systems-go.js)
