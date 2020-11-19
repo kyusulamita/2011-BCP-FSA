@@ -15,7 +15,8 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 7. [Arrays II](#07-arrays-II)
 8. [Sudoku](#08-sudoku)
 9. [Objects](#09-objects)
-10. [Recursion](#10-recursion-I)
+10. [Recursion I](#10-recursion-I)
+11. [Recursion II](#11-recursion-II)
 
 ## Additional Resources
 
@@ -234,6 +235,7 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 **[Live Lecture](https://youtu.be/WGhVKbPU9P0)**
 
 [Robin's Live Solutions](https://youtu.be/eIzise3zGww)
+[Count Vowels Live Solution](https://youtu.be/FScghzGyr_M)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
@@ -250,3 +252,20 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 
 1. [Sum Digits](10-recursion-i/04-sum-digits.js)
 2. [Reverse Array](10-recursion-i/05-reverse-array.js)
+
+## **11 Recursion II**
+
+**[Live Lecture](https://youtu.be/UcLVFy7yM_s)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
+
+[Fullstack Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
+
+### Notes 
+[Full Notes](11-recursion-ii)
+
+1. [Nested Arrays](11-recursion-ii/01-nested-arrays.js)
+2. [Nested Objects](11-recursion-ii/02-nested-objects.js)
+
+### Robin's Solutions
+
