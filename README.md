@@ -17,6 +17,7 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 9. [Objects](#09-objects)
 10. [Recursion I](#10-recursion-I)
 11. [Recursion II](#11-recursion-II)
+12. [Practice Assessment](#12-practice-assessment)
 
 ## Additional Resources
 
@@ -272,3 +273,17 @@ Hello! This is where Sulamita will put all the material for BCP. If any of the l
 ### Robin's Solutions
 
 1. [All Systems Go](11-recursion-ii/s-01-all-systems-go.js)
+
+## **12 Practice Assessment**
+
+**[Live Solutions](https://youtu.be/qIu-ly1CjHY)**
+
+[Fullstack Solutions](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/content/5aca5d8b5d52b00004b8cefb/text)
+
+### Notes 
+[Full Notes](12-practice-assessment)
+
+1. [Largest Three Digit Num](12-practice-assessment/01-largest-three-digit-sum.js)
+2. [Mad Libs](12-practice-assessment/02-mad-libs.js)
+3. [Is Prime](12-practice-assessment/03-is-prime.js)
+4. [Nesting Bird](12-practice-assessment/04-nesting-bird.js)
